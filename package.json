@@ -1,0 +1,26 @@
+{
+  "name": "mail-landing",
+  "version": "1.0.0",
+  "description": "mail app landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/novalufian/mail-app.git"
+  },
+  "keywords": [
+    "nova",
+    "lufian"
+  ],
+  "author": "nova lufian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novalufian/mail-app/issues"
+  },
+  "homepage": "https://github.com/novalufian/mail-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
